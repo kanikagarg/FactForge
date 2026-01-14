@@ -1,0 +1,8 @@
+streamlit
+langgraph
+huggingface
+datasets
+dotenv
+torch
+transformers
+openai
