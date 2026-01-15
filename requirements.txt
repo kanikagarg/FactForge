@@ -3,6 +3,7 @@ langgraph
 huggingface
 datasets
 dotenv
-torch
-transformers
 openai
+sentence-transformers
+faiss-cpu
+numpy
